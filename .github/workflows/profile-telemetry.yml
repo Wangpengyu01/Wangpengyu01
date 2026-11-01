@@ -1,0 +1,42 @@
+name: Update profile telemetry
+
+on:
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/profile-telemetry.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-telemetry
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - name: Verify data calculations
+        run: python3 -m unittest discover -s tests -v
+      - name: Refresh SVG cards
+        run: python3 scripts/update_profile.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Save updated cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/stats.svg assets/stats-mobile.svg assets/contributions.svg assets/contributions-mobile.svg assets/metrics.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh GitHub profile telemetry'
+            git push origin HEAD:main
+          fi

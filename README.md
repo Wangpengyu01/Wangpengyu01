@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="#whoami">About</a> &nbsp; / &nbsp;
+  <a href="#telemetry">Telemetry</a> &nbsp; / &nbsp;
   <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
   <a href="https://github.com/Wangpengyu01?tab=repositories">All repositories ↗</a>
 </p>
@@ -15,6 +16,26 @@
 把重复的事交给工具，把复杂的接口整理清楚。这里主要记录 **Python 后端、开发工具与设备集成** 的实践，从一个实际问题开始，把它做成能用的东西。
 
 `Python` &nbsp; `FastAPI` &nbsp; `Pydantic` &nbsp; `PowerShell` &nbsp; `Docker` &nbsp; `Linux`
+
+### Telemetry
+
+<p align="center">
+  <a href="https://github.com/Wangpengyu01?tab=repositories">
+    <picture>
+      <source media="(max-width: 640px)" srcset="./assets/stats-mobile.svg" />
+      <img src="./assets/stats.svg" alt="GitHub 公开仓库、Stars、关注者、近一年贡献及语言占比，每日更新。" width="100%" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Wangpengyu01?tab=overview">
+    <picture>
+      <source media="(max-width: 640px)" srcset="./assets/contributions-mobile.svg" />
+      <img src="./assets/contributions.svg" alt="近一年贡献热力图，与 GitHub 公开主页一致；包含活跃天数和最长连续贡献天数。" width="100%" />
+    </picture>
+  </a>
+</p>
 
 ### Selected work
 
