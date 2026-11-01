@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="448" viewBox="0 0 1280 448" role="img" aria-labelledby="title desc">
+  <title id="title">Wangpengyu01 — Build things. That work.</title>
+  <desc id="desc">A dark engineering workspace with a green headline and a syntax highlighted Python profile. Python, FastAPI, developer tooling and hardware integration.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#24312d" stroke-width="1" opacity=".32" />
+    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101715" />
+      <stop offset="1" stop-color="#0b1010" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#b4f57b" />
+      <stop offset="1" stop-color="#70d9ad" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="446" rx="18" fill="url(#bg)" stroke="#2a3932" stroke-width="2" />
+  <rect x="2" y="2" width="1276" height="444" rx="17" fill="url(#grid)" />
+  <path d="M 48 75 H 1232" stroke="#2a3932" />
+  <g font-family="'Cascadia Code','Consolas','Liberation Mono',monospace">
+    <circle cx="54" cy="40" r="5" fill="#b4f57b" />
+    <text x="73" y="46" fill="#d2dfd6" font-size="16" letter-spacing="1.3">WANGPENGYU01</text>
+    <text x="1232" y="46" text-anchor="end" fill="#8eaa9b" font-size="14" letter-spacing="1.5">PERSONAL / ENGINEERING LOG</text>
+    <text x="48" y="119" fill="#8eaa9b" font-size="15">// FROM REAL PROBLEMS TO WORKING TOOLS</text>
+    <text x="43" y="202" fill="#f0f4ed" font-size="67" font-weight="700" letter-spacing="-3">BUILD THINGS.</text>
+    <text x="43" y="277" fill="url(#accent)" font-size="67" font-weight="700" letter-spacing="-3">THAT WORK.</text>
+    <text x="48" y="323" fill="#a3b7ab" font-size="19">Python / FastAPI / Developer tooling</text>
+    <rect x="650" y="101" width="582" height="264" rx="10" fill="#0a0f0e" stroke="#2a3932" />
+    <path d="M 650 140 H 1232" stroke="#2a3932" />
+    <circle cx="672" cy="120" r="4" fill="#d67a76" />
+    <circle cx="688" cy="120" r="4" fill="#d2bb78" />
+    <circle cx="704" cy="120" r="4" fill="#94bb8a" />
+    <text x="738" y="125" fill="#a3b7ab" font-size="14">profile.py</text>
+    <text x="1210" y="125" text-anchor="end" fill="#708b7d" font-size="12">UTF-8</text>
+    <g fill="#53695e" font-size="15" text-anchor="end">
+      <text x="683" y="174">01</text><text x="683" y="203">02</text>
+      <text x="683" y="232">03</text><text x="683" y="261">04</text>
+      <text x="683" y="290">05</text><text x="683" y="319">06</text>
+      <text x="683" y="348">07</text>
+    </g>
+    <g font-size="17">
+      <text x="708" y="174"><tspan fill="#c7a8ee">class </tspan><tspan fill="#e6d4a3">Developer</tspan><tspan fill="#b8c9bf">:</tspan></text>
+      <text x="708" y="203" xml:space="preserve"><tspan fill="#b8c9bf">    name = </tspan><tspan fill="#b4f57b">&quot;Joker S&amp;L Wong&quot;</tspan></text>
+      <text x="708" y="232" xml:space="preserve"><tspan fill="#b8c9bf">    focus = [</tspan></text>
+      <text x="708" y="261" xml:space="preserve"><tspan fill="#b4f57b">        &quot;backend systems&quot;</tspan><tspan fill="#b8c9bf">,</tspan></text>
+      <text x="708" y="290" xml:space="preserve"><tspan fill="#b4f57b">        &quot;developer tools&quot;</tspan><tspan fill="#b8c9bf">,</tspan></text>
+      <text x="708" y="319" xml:space="preserve"><tspan fill="#b4f57b">        &quot;hardware integration&quot;</tspan></text>
+      <text x="708" y="348" xml:space="preserve"><tspan fill="#b8c9bf">    ]</tspan></text>
+    </g>
+    <path d="M 48 389 H 1232" stroke="#2a3932" />
+    <text x="48" y="420" font-size="13" letter-spacing="1"><tspan fill="#b4f57b">01</tspan><tspan fill="#91a99b"> / EXPLORE</tspan><tspan dx="38" fill="#b4f57b">02</tspan><tspan fill="#91a99b"> / BUILD</tspan><tspan dx="38" fill="#b4f57b">03</tspan><tspan fill="#91a99b"> / REFINE</tspan></text>
+    <text x="1232" y="420" text-anchor="end" fill="#91a99b" font-size="13">small tools. real problems.</text>
+  </g>
+</svg>
