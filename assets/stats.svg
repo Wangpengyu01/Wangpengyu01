@@ -13,28 +13,28 @@
 <text x="352" y="164" font-size="14" fill="#a3b7ab" >STARS EARNED</text>
 <text x="656" y="133" font-size="48" fill="#b4f57b" font-weight="700">1</text>
 <text x="656" y="164" font-size="14" fill="#a3b7ab" >FOLLOWERS</text>
-<text x="960" y="133" font-size="48" fill="#b4f57b" font-weight="700">74</text>
+<text x="960" y="133" font-size="48" fill="#b4f57b" font-weight="700">75</text>
 <text x="960" y="164" font-size="14" fill="#a3b7ab" >CONTRIBUTIONS / 12M</text>
 <path d="M 28 196 H 1252" stroke="#2a3932"/>
 <text x="48" y="230" font-size="14" fill="#a3b7ab" >LANGUAGE MIX / PUBLIC SOURCE CODE</text>
 <defs><clipPath id="bar"><rect x="48" y="248" width="1184" height="12" rx="6"/></clipPath></defs>
 <g clip-path="url(#bar)">
 <rect x="48" y="248" width="1184" height="12" fill="#1c2922"/>
-<rect x="48.000" y="248" width="842.257" height="12" fill="#b4f57b"/>
-<rect x="890.257" y="248" width="172.375" height="12" fill="#79d4ca"/>
-<rect x="1062.632" y="248" width="72.367" height="12" fill="#c2a6ef"/>
-<rect x="1134.999" y="248" width="33.961" height="12" fill="#e0c38b"/>
-<rect x="1168.960" y="248" width="63.040" height="12" fill="#8eaa9b"/>
+<rect x="48.000" y="248" width="861.337" height="12" fill="#b4f57b"/>
+<rect x="909.337" y="248" width="162.751" height="12" fill="#79d4ca"/>
+<rect x="1072.088" y="248" width="68.327" height="12" fill="#c2a6ef"/>
+<rect x="1140.414" y="248" width="32.065" height="12" fill="#e0c38b"/>
+<rect x="1172.479" y="248" width="59.521" height="12" fill="#8eaa9b"/>
 </g>
 <circle cx="52" cy="288" r="4" fill="#b4f57b"/>
-<text x="65" y="293" font-size="14" fill="#a3b7ab" >Python 71.1%</text>
+<text x="65" y="293" font-size="14" fill="#a3b7ab" >Python 72.7%</text>
 <circle cx="289" cy="288" r="4" fill="#79d4ca"/>
-<text x="302" y="293" font-size="14" fill="#a3b7ab" >PowerShell 14.6%</text>
+<text x="302" y="293" font-size="14" fill="#a3b7ab" >PowerShell 13.7%</text>
 <circle cx="526" cy="288" r="4" fill="#c2a6ef"/>
-<text x="539" y="293" font-size="14" fill="#a3b7ab" >HTML 6.1%</text>
+<text x="539" y="293" font-size="14" fill="#a3b7ab" >HTML 5.8%</text>
 <circle cx="763" cy="288" r="4" fill="#e0c38b"/>
-<text x="776" y="293" font-size="14" fill="#a3b7ab" >PHP 2.9%</text>
+<text x="776" y="293" font-size="14" fill="#a3b7ab" >PHP 2.7%</text>
 <circle cx="1000" cy="288" r="4" fill="#8eaa9b"/>
-<text x="1013" y="293" font-size="14" fill="#a3b7ab" >Other 5.3%</text>
+<text x="1013" y="293" font-size="14" fill="#a3b7ab" >Other 5.0%</text>
 <text x="48" y="337" font-size="12" fill="#8eaa9b" >By code bytes / forks excluded / daily sync</text>
 </g></svg>
