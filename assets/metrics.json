@@ -1,25 +1,25 @@
 {
-  "repos": 13,
+  "repos": 14,
   "stars": 0,
   "followers": 1,
-  "contributions": 78,
+  "contributions": 172,
   "languages": {
-    "Python": 228196,
-    "PowerShell": 43118,
-    "Batchfile": 1088,
-    "HTML": 18102,
+    "Python": 830477,
+    "PowerShell": 85380,
+    "Batchfile": 6158,
+    "HTML": 68877,
     "JavaScript": 6706,
     "CSS": 2934,
     "Dockerfile": 3426,
+    "Shell": 203737,
+    "C++": 126801,
+    "TypeScript": 118013,
+    "C": 5667,
+    "CMake": 3813,
     "PHP": 8495,
     "Hack": 1615
   },
   "days": [
-    {
-      "date": "2025-11-04",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-11-05",
       "level": 0,
@@ -892,7 +892,7 @@
     },
     {
       "date": "2026-04-28",
-      "level": 2,
+      "level": 1,
       "count": 6
     },
     {
@@ -942,7 +942,7 @@
     },
     {
       "date": "2026-05-08",
-      "level": 4,
+      "level": 3,
       "count": 13
     },
     {
@@ -1277,22 +1277,22 @@
     },
     {
       "date": "2026-07-14",
-      "level": 2,
+      "level": 1,
       "count": 6
     },
     {
       "date": "2026-07-15",
-      "level": 2,
+      "level": 1,
       "count": 4
     },
     {
       "date": "2026-07-16",
-      "level": 2,
+      "level": 1,
       "count": 6
     },
     {
       "date": "2026-07-17",
-      "level": 3,
+      "level": 2,
       "count": 7
     },
     {
@@ -1487,7 +1487,7 @@
     },
     {
       "date": "2026-08-25",
-      "level": 2,
+      "level": 1,
       "count": 6
     },
     {
@@ -1557,18 +1557,18 @@
     },
     {
       "date": "2026-09-08",
-      "level": 0,
-      "count": 0
+      "level": 4,
+      "count": 21
     },
     {
       "date": "2026-09-09",
       "level": 1,
-      "count": 1
+      "count": 6
     },
     {
       "date": "2026-09-10",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 3
     },
     {
       "date": "2026-09-11",
@@ -1587,8 +1587,8 @@
     },
     {
       "date": "2026-09-14",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 5
     },
     {
       "date": "2026-09-15",
@@ -1597,8 +1597,8 @@
     },
     {
       "date": "2026-09-16",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
     },
     {
       "date": "2026-09-17",
@@ -1607,8 +1607,8 @@
     },
     {
       "date": "2026-09-18",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 5
     },
     {
       "date": "2026-09-19",
@@ -1627,13 +1627,13 @@
     },
     {
       "date": "2026-09-22",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 4
     },
     {
       "date": "2026-09-23",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
     },
     {
       "date": "2026-09-24",
@@ -1657,18 +1657,18 @@
     },
     {
       "date": "2026-09-28",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2026-09-29",
       "level": 1,
       "count": 2
     },
     {
+      "date": "2026-09-29",
+      "level": 2,
+      "count": 8
+    },
+    {
       "date": "2026-09-30",
       "level": 1,
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-10-01",
@@ -1718,12 +1718,12 @@
     {
       "date": "2026-10-10",
       "level": 1,
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-10-11",
       "level": 1,
-      "count": 2
+      "count": 4
     },
     {
       "date": "2026-10-12",
@@ -1827,21 +1827,26 @@
     },
     {
       "date": "2026-11-01",
-      "level": 2,
+      "level": 1,
       "count": 5
     },
     {
       "date": "2026-11-02",
-      "level": 0,
-      "count": 0
+      "level": 3,
+      "count": 16
     },
     {
       "date": "2026-11-03",
-      "level": 1,
-      "count": 3
+      "level": 4,
+      "count": 24
+    },
+    {
+      "date": "2026-11-04",
+      "level": 0,
+      "count": 0
     }
   ],
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "sources": {
     "repositories": "https://api.github.com/users/Wangpengyu01/repos",
     "contributions": "https://github.com/users/Wangpengyu01/contributions"
