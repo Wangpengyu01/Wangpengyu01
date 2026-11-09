@@ -5,7 +5,7 @@
 <g font-family="'Cascadia Code','Consolas','Liberation Mono',monospace">
 <circle cx="32" cy="35" r="4" fill="#b4f57b"/>
 <text x="48" y="41" font-size="16" fill="#d2dfd6" >GITHUB / TELEMETRY</text>
-<text x="612" y="41" font-size="13" fill="#8eaa9b" text-anchor="end">2026-11-08</text>
+<text x="612" y="41" font-size="13" fill="#8eaa9b" text-anchor="end">2026-11-09</text>
 <path d="M 28 65 H 612" stroke="#2a3932"/>
 <text x="32" y="125" font-size="48" fill="#b4f57b" font-weight="700">14</text>
 <text x="32" y="156" font-size="14" fill="#a3b7ab" >PUBLIC REPOS</text>
@@ -13,28 +13,28 @@
 <text x="336" y="156" font-size="14" fill="#a3b7ab" >STARS EARNED</text>
 <text x="32" y="237" font-size="48" fill="#b4f57b" font-weight="700">1</text>
 <text x="32" y="268" font-size="14" fill="#a3b7ab" >FOLLOWERS</text>
-<text x="336" y="237" font-size="48" fill="#b4f57b" font-weight="700">187</text>
+<text x="336" y="237" font-size="48" fill="#b4f57b" font-weight="700">199</text>
 <text x="336" y="268" font-size="14" fill="#a3b7ab" >CONTRIBUTIONS / 12M</text>
 <path d="M 28 282 H 612" stroke="#2a3932"/>
 <text x="32" y="316" font-size="14" fill="#a3b7ab" >LANGUAGE MIX / PUBLIC SOURCE CODE</text>
 <defs><clipPath id="bar"><rect x="32" y="338" width="576" height="12" rx="6"/></clipPath></defs>
 <g clip-path="url(#bar)">
 <rect x="32" y="338" width="576" height="12" fill="#1c2922"/>
-<rect x="32.000" y="338" width="388.840" height="12" fill="#b4f57b"/>
-<rect x="420.840" y="338" width="64.113" height="12" fill="#79d4ca"/>
-<rect x="484.953" y="338" width="38.835" height="12" fill="#c2a6ef"/>
-<rect x="523.788" y="338" width="31.051" height="12" fill="#e0c38b"/>
-<rect x="554.840" y="338" width="53.160" height="12" fill="#8eaa9b"/>
+<rect x="32.000" y="338" width="392.782" height="12" fill="#b4f57b"/>
+<rect x="424.782" y="338" width="62.140" height="12" fill="#79d4ca"/>
+<rect x="486.921" y="338" width="37.640" height="12" fill="#c2a6ef"/>
+<rect x="524.561" y="338" width="31.915" height="12" fill="#e0c38b"/>
+<rect x="556.476" y="338" width="51.524" height="12" fill="#8eaa9b"/>
 </g>
 <circle cx="36" cy="380" r="4" fill="#b4f57b"/>
-<text x="49" y="385" font-size="14" fill="#a3b7ab" >Python 67.5%</text>
+<text x="49" y="385" font-size="14" fill="#a3b7ab" >Python 68.2%</text>
 <circle cx="340" cy="380" r="4" fill="#79d4ca"/>
-<text x="353" y="385" font-size="14" fill="#a3b7ab" >Shell 11.1%</text>
+<text x="353" y="385" font-size="14" fill="#a3b7ab" >Shell 10.8%</text>
 <circle cx="36" cy="414" r="4" fill="#c2a6ef"/>
-<text x="49" y="419" font-size="14" fill="#a3b7ab" >C++ 6.7%</text>
+<text x="49" y="419" font-size="14" fill="#a3b7ab" >C++ 6.5%</text>
 <circle cx="340" cy="414" r="4" fill="#e0c38b"/>
-<text x="353" y="419" font-size="14" fill="#a3b7ab" >HTML 5.4%</text>
+<text x="353" y="419" font-size="14" fill="#a3b7ab" >HTML 5.5%</text>
 <circle cx="36" cy="448" r="4" fill="#8eaa9b"/>
-<text x="49" y="453" font-size="14" fill="#a3b7ab" >Other 9.2%</text>
+<text x="49" y="453" font-size="14" fill="#a3b7ab" >Other 8.9%</text>
 <text x="32" y="497" font-size="12" fill="#8eaa9b" >By code bytes / forks excluded / daily sync</text>
 </g></svg>
