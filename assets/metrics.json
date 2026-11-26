@@ -1,17 +1,17 @@
 {
-  "repos": 14,
+  "repos": 15,
   "stars": 1,
   "followers": 1,
-  "contributions": 203,
+  "contributions": 207,
   "languages": {
     "Python": 2221767,
-    "PowerShell": 123680,
-    "Batchfile": 7616,
-    "HTML": 180526,
-    "JavaScript": 6706,
+    "PowerShell": 142569,
+    "Batchfile": 8708,
+    "JavaScript": 4766119,
+    "HTML": 252053,
+    "Shell": 376539,
     "CSS": 2934,
     "Dockerfile": 3426,
-    "Shell": 351493,
     "C++": 212910,
     "C": 11334,
     "CMake": 7626,
@@ -20,11 +20,6 @@
     "Hack": 1615
   },
   "days": [
-    {
-      "date": "2025-11-26",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-11-27",
       "level": 0,
@@ -1844,9 +1839,14 @@
       "date": "2026-11-25",
       "level": 0,
       "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "level": 1,
+      "count": 4
     }
   ],
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "sources": {
     "repositories": "https://api.github.com/users/Wangpengyu01/repos",
     "contributions": "https://github.com/users/Wangpengyu01/contributions"
